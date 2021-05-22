@@ -7,7 +7,7 @@ My Data Science Portfolio
 - Optimized linear, lasso and Random Forest Regressors using GridSearchCV to reach the best model
 - Built a client facing API using Flask
 
-# [Project 2: Power-BI-Dashboards]()
+# [Project 2: Power-BI-Dashboards](https://github.com/SweHar/Power-BI-Dashboards)
 - As a Power BI enthusiast, I have created several dashboards
 
 - I used DAX to analyze the sales related domain for sales of company
