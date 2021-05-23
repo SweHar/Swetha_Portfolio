@@ -1,6 +1,6 @@
 # Swetha_Portfolio
 My Data Science Portfolio
-![ ](https://github.com/SweHar/Swetha_Portfolio/blob/main/Images/Graduation%20pic.png)
+![](https://github.com/SweHar/Swetha_Portfolio/blob/main/Images/Graduation%20pic.png)
 
 # [Project 1: Data Science Car Price Estimator: Project Overview](https://github.com/SweHar/Car-Price-Prediction)
 - Created a tool that estimates the price of used cars to help people get an picture
