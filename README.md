@@ -4,6 +4,8 @@ My Data Science Portfolio
 # [Project 1: Time Series M5 Kaggle: Project Overview](https://github.com/SweHar/Car-Price-Prediction)
 - Predicted: Walmart Sales based on internal and external factors.
 - Developed: Consistent Time Series model to forecast sales considering special events, product price and each day sales.
+- The best prediction is from Exponential Smoothing with Walk Forward Validation with lowest RMSE score.
+- 
 
 # [Project 2: Power-BI-Dashboards](https://github.com/SweHar/Power-BI-Dashboards)
 - As a Power BI enthusiast, I have created several dashboards
