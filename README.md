@@ -3,12 +3,9 @@ My Data Science Portfolio
 
 # ![](/Images/Graduation%20pic.png)
 
-# [Project 1: Data Science Car Price Estimator: Project Overview](https://github.com/SweHar/Car-Price-Prediction)
-- Created a tool that estimates the price of used cars to help people get an idea
-- Cleaned and analyzed 1000 of rows of data 
-- Engineered features
-- Optimized linear, lasso and Random Forest Regressors using GridSearchCV to reach the best model
-- Built a client facing API using Flask
+# [Project 1: Time Series M5 Kaggle: Project Overview](https://github.com/SweHar/Car-Price-Prediction)
+- Predicted: Walmart Sales based on internal and external factors.
+- Developed: Consistent Time Series model to forecast sales considering special events, product price and each day sales.
 
 # [Project 2: Power-BI-Dashboards](https://github.com/SweHar/Power-BI-Dashboards)
 - As a Power BI enthusiast, I have created several dashboards
