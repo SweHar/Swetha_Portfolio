@@ -2,7 +2,7 @@
 My Data Science Portfolio
 
 # ![](/Images/Graduation%20pic.png)
-# ![](Images/Products_Dashboard.jpg)
+
 # [Project 1: Time Series M5 Kaggle: Project Overview](https://github.com/SweHar/Car-Price-Prediction)
 - Predicted: Walmart Sales based on internal and external factors.
 - Developed: Consistent Time Series model to forecast sales considering special events, product price and each day sales.
@@ -16,3 +16,6 @@ values and their wealth segmentation for analysing bike purchase related informa
 so that we can take action by understanding the root cause.
 - Analyzed which parameter returns high profit by studying the transaction of customer helps organize the Strategy accordingly.
 - Used lineplot, barplot, histogram, maps, doughnutChart and drill down according to the requirement.
+# ![Summary](/Images/Summary_Dashboard.jpg)
+# ![Products](/Images/Products_Dashboard.jpg)
+# ![Customer Detail](/Images/CustomerDetail_Dashboard.jpg)
