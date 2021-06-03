@@ -1,5 +1,6 @@
 # Hello Everyone
 # Welcome to my Data Science Portfolio
+Many more projects are in queue !! Watch this space for more :)
 
 # [Project 1: Time Series M5 Kaggle: Project Overview](https://github.com/SweHar/Time-Series-Analysis-On-M5-Dataset)
 - Predicted: Walmart FOODS category Sales based on internal and external factors.
